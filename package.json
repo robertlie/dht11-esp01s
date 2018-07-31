@@ -2,12 +2,14 @@
   "name": "dht11-esp01s",
   "version": "1.0.0",
   "description": "",
-  "main": "dht_mqtt.js",
+  "main": "dht_mqtt_mam.js",
   "scripts": {
+    "start": "dht_mqtt_mam.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["DHT11", "sensor", "IOTA", "Tangle", "Masked Authenticated Messaging", "MAM", "Raspberry Pi 3", "MQTT", "Mosquitto"],
+  "homepage": "https://www.mobilefish.com/developer/iota/iota_quickguide_esp01s_mam.html",
+  "author": "Robert Lie",
   "license": "ISC",
   "dependencies": {
     "iota.lib.js": "^0.4.7",
