@@ -1,0 +1,17 @@
+{
+  "name": "dht11-esp01s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dht_mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iota.lib.js": "^0.4.7",
+    "moment": "^2.22.2",
+    "mqtt": "^2.18.3"
+  }
+}
