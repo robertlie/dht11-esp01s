@@ -14,6 +14,7 @@ All hardware requirements and how to wire the ESP-01S (ESP8266) is explained at:
 [5]: http://wiki.ai-thinker.com/_media/esp8266/esp8266_module_list.png
 [6]: https://www.espressif.com/sites/default/files/documentation/4a-esp8266_at_instruction_set_en.pdf
 [7]: http://wiki.aprbrother.com/en/Firmware_For_ESP8266.html
+[8]: http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf
 
 ![alt text](https://www.mobilefish.com/images/developer/esp01s_ftdi_dht11.jpg "DHT11 sensor connected to Raspberry Pi 3")
 
@@ -23,6 +24,7 @@ More information about the ESP-01S can be found at:
 [https://www.esp8266.com/wiki/doku.php][3]<br/>
 [https://www.esp8266.com/wiki/doku.php?id=esp8266-module-family][4]<br/>
 [http://wiki.ai-thinker.com/\_media/esp8266/esp8266\_module\_list.png][5]<br/>
+[http://wiki.ai-thinker.com/\_media/esp8266/esp8266\_series\_modules\_user\_manual\_v1.1.pdf][8]<br/>
 [https://www.espressif.com/sites/default/files/documentation/4a-esp8266\_at\_instruction\_set\_en.pdf][6]<br/>
 
 ## ESP8266 firmware
