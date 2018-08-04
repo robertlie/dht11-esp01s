@@ -8,7 +8,7 @@ All hardware requirements and how to wire the ESP-01S (ESP8266) is explained at:
 [https://www.mobilefish.com/developer/iota/iota\_quickguide\_esp01s\_mam.html][1]
 
 [1]: https://www.mobilefish.com/developer/iota/iota_quickguide_esp01s_mam.html "Mobilefish.com"
-[2]: https://youtu.be/atJ-ZT7aKoA "YouTube video"
+[2]: https://youtu.be/qZg-3OTrMKE "YouTube video"
 [3]: https://www.esp8266.com/wiki/doku.php
 [4]: https://www.esp8266.com/wiki/doku.php?id=esp8266-module-family
 [5]: http://wiki.ai-thinker.com/_media/esp8266/esp8266_module_list.png
@@ -57,5 +57,5 @@ How to use the scripts see:
 [https://www.mobilefish.com/developer/iota/iota\_quickguide\_esp01s\_mam.html][1]
 
 or watch this YouTube video:
-[https://youtu.be/atJ-ZT7aKoA][2]
+[https://youtu.be/qZg-3OTrMKE][2]
 
