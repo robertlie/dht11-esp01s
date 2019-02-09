@@ -7,12 +7,23 @@
     "start": "dht_mqtt_mam.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["DHT11", "sensor", "IOTA", "Tangle", "Masked Authenticated Messaging", "MAM", "Raspberry Pi 3", "MQTT", "Mosquitto"],
+  "keywords": [
+    "DHT11",
+    "sensor",
+    "IOTA",
+    "Tangle",
+    "Masked Authenticated Messaging",
+    "MAM",
+    "Raspberry Pi 3",
+    "MQTT",
+    "Mosquitto"
+  ],
   "homepage": "https://www.mobilefish.com/developer/iota/iota_quickguide_esp01s_mam.html",
   "author": "Robert Lie",
   "license": "ISC",
   "dependencies": {
     "iota.lib.js": "^0.4.7",
+    "lodash": "^4.17.11",
     "moment": "^2.22.2",
     "mqtt": "^2.18.3"
   }
